@@ -6,7 +6,7 @@ public final class DatabaseConfig {
     public static final int    PORT     = 3306;
     public static final String DATABASE = "dss_ee";
     public static final String USER     = "root";
-    public static final String PASSWORD = "Britos2005";
+    public static final String PASSWORD = "";
 
     public static final String URL =
         "jdbc:mysql://" + HOST + ":" + PORT + "/" + DATABASE
